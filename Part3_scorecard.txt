@@ -1,0 +1,19 @@
+Enter your BITS institutional email: 
+=================================================================
+URBANGO ASSIGNMENT 1 - PART 3 EXECUTION
+=================================================================
+Student Email       : 2026nd04174@wilp.bits-pilani.ac.in
+Assignment ID       : A1
+Dataset ID          : UG-B
+Dataset Fingerprint : 056a1c90918e...
+Submission ID       : 2430077EFDBDAB10
+Verification Status : VERIFIED
+
+-----------------------------------------------------------------
+MODEL PERFORMANCE SCORECARD
+-----------------------------------------------------------------
+Accuracy on RAW Data          : 79.66%
+Accuracy on PREPROCESSED Data : 83.50%
+-----------------------------------------------------------------
+Execution Status              : SUCCESS
+=================================================================
