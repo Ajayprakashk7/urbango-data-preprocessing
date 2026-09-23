@@ -46,4 +46,6 @@ Generated a comprehensive HTML profiling report (`profiling_report.html`) to ide
 *   `Assignment1_Report.docx`: Detailed project report.
 
 ## 🧑‍💻 Author
-**Student ID:** `2026nd04174@wilp.bits-pilani.ac.in`
+**Ajay Prakash**
+* **Portfolio:** [ajayprakash.dev](https://ajayprakash.dev)
+* **Student ID:** `2026nd04174@wilp.bits-pilani.ac.in`
