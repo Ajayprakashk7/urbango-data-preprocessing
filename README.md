@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://python.org)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)](#)
 
 ## 📌 Project Overview
@@ -47,5 +48,7 @@ Generated a comprehensive HTML profiling report (`profiling_report.html`) to ide
 
 ## 🧑‍💻 Author
 **Ajay Prakash**
+* **Education:** M.Tech in Data Science and Engineering, BITS Pilani
 * **Portfolio:** [ajayprakash.dev](https://ajayprakash.dev)
 * **Student ID:** `2026nd04174@wilp.bits-pilani.ac.in`
+* **License:** This project is licensed under the MIT License.
